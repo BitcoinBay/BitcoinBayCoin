@@ -1,15 +1,14 @@
 # BitcoinBayCoin
 
-
 Bitcoin Bay Coin
 
-Tokenomics
+## Tokenomics
 
 - RSK token (ON BITCOIN)
 - ERC20
 - Fixed supply, 21,000,000,000
 
-Distribution
+## Distribution
   - Community members
     - meetup attendees
     - hackathon participants
@@ -20,7 +19,7 @@ Distribution
     - other collaborators
     - Bounty Hunters
 
-Utility
+## Utility
 
  - Event admission
  - Workshop discount
@@ -30,7 +29,7 @@ Utility
 
 
 
-Governance/DAO
+## Governance/DAO
 
  - Community driven
  - 
