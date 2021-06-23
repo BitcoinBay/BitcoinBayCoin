@@ -33,6 +33,6 @@ Bitcoin Bay Coin
 
  - Community driven
  - 
- - Compound Governance
+ - Compound Governance or Aragon Governance
 
 
