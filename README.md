@@ -24,6 +24,7 @@ Bitcoin Bay Coin
  - Workshop discount
  - Event Sponsorship
  - Hacker House workspace
+ - Consulting
  
 
 
