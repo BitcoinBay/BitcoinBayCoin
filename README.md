@@ -12,7 +12,6 @@ Bitcoin Bay Coin
   - Community members
     - meetup attendees
     - hackathon participants
-    - 
   - Contributors
     - Founders
     - interns
@@ -25,14 +24,13 @@ Bitcoin Bay Coin
  - Workshop discount
  - Event Sponsorship
  - Hacker House workspace
- - 
+ 
 
 
 
 ## Governance/DAO
 
- - Community driven
- - 
+ - Community driven 
  - Compound Governance or Aragon Governance
 
 
